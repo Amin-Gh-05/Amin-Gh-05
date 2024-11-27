@@ -83,6 +83,6 @@ When I'm not working, you might find me:
 ## My Stats
 
 <div align="center">
-    <img src="![Amin-Gh-05's Stats](https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true)" alt="Stats1">
-    <img src="![Amin-Gh-05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact)" alt="Stats2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
 </div>
