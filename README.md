@@ -3,7 +3,7 @@
 I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
 
-<div>
+<div align="center">
     <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
 </div>
 
@@ -22,19 +22,24 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 
 ## My Tools
 
-<div>
-    <img src="icons/git.svg" alt="git" height=50 width=50>
+<div align="center">
+    <img src="icons/git.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
-    <img src="icons/python.svg" alt="git" height=50 width=50>
+    <img src="icons/python.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
-    <img src="icons/c++.svg" alt="git" height=50 width=50>
+    <img src="icons/c++.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
-    <img src="icons/java.svg" alt="git" height=50 width=50>
+    <img src="icons/java.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
-    <img src="icons/csharp.svg" alt="git" height=50 width=50>
+    <img src="icons/csharp.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img width=25>
+    <img src="icons/postgres.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img width=25>
+    <img src="icons/mss.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    
+    A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!
 </div>
 
-A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!
 
 ## 💻 Projects
 Here are some projects I'm proud of
@@ -82,7 +87,7 @@ When I'm not working, you might find me:
 
 ## My Stats
 
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
 </div>
