@@ -38,9 +38,8 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
     <img src="icons/mss.svg" alt="git" height=50 width=50">
 </div>
 
-<p align="center">
-    A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!
-</p>
+<br>
+<p align="center">A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!</p>
 
 ## 💻 Projects
 Here are some projects I'm proud of
