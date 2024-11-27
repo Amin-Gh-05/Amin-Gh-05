@@ -79,3 +79,10 @@ When I'm not working, you might find me:
 - [Instagram](https://www.instagram.com/amin_gh_05/)
 
 - [Telegram](https://t.me/AminGh05)
+
+## My Stats
+
+<div align="center">
+    <img src="![Amin-Gh-05's Stats](https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true)" alt="Stats1">
+    <img src="![Amin-Gh-05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact)" alt="Stats2">
+</div>
