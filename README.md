@@ -3,7 +3,7 @@
 I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
 
-<div align="center">
+<div>
     <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
 </div>
 
@@ -22,7 +22,7 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 
 ## My Tools
 
-<div align="center">
+<div>
     <img src="icons/git.svg" alt="git" height=50 width=50>
     <img width=25>
     <img src="icons/python.svg" alt="git" height=50 width=50>
@@ -82,7 +82,7 @@ When I'm not working, you might find me:
 
 ## My Stats
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
 </div>
