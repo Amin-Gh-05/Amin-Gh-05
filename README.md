@@ -58,7 +58,7 @@ Link of the project: [YouTube](https://github.com/Amin-Gh-05/YouTube)
 My midterm projct of Advanced-Programming course in SBU - individual
 
 - **Technologies:** Java, Javafx, PostgreSQL
-- At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's stil in development 😊)
+- At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's still in development 😊)
 
 Link of the project: [Reddit](https://github.com/Amin-Gh-05/Reddit)
 
