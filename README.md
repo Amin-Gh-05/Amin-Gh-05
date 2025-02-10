@@ -75,7 +75,7 @@ Link of the project: [Tetris](https://github.com/osumy/Tetris)
 When I'm not working, you might find me:
 
 - Playing games, Watching movies and series, Reading novels, Playing or persuing sports
-- Hanging out with old, new or future friends (next one might be you!)
+- Hanging out with old, new or future friends
 
 ## 📫 How to Connect
 
