@@ -33,6 +33,8 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
     <img width=25>
     <img src="icons/csharp.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
+    <img src="icons/js.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img width=25>
     <img src="icons/postgres.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
     <img src="icons/mss.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
