@@ -23,25 +23,25 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 ## My Tools
 
 <div align="center">
-    <img src="icons/git.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/git.svg" alt="git" height=50 width=50">
     <img width=25>
-    <img src="icons/python.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/python.svg" alt="git" height=50 width=50">
     <img width=25>
-    <img src="icons/c++.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/c++.svg" alt="git" height=50 width=50">
     <img width=25>
-    <img src="icons/java.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/java.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/csharp.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
     <img src="icons/js.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
     <img width=25>
-    <img src="icons/postgres.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/postgres.svg" alt="git" height=50 width=50">
     <img width=25>
-    <img src="icons/mss.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
-    
-    A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!
+    <img src="icons/mss.svg" alt="git" height=50 width=50">
 </div>
 
+<br>
+<p align="center">A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!</p>
 
 ## 💻 Projects
 Here are some projects I'm proud of
@@ -60,7 +60,7 @@ Link of the project: [YouTube](https://github.com/Amin-Gh-05/YouTube)
 My midterm projct of Advanced-Programming course in SBU - individual
 
 - **Technologies:** Java, Javafx, PostgreSQL
-- At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's stil in development 😊)
+- At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's still in development 😊)
 
 Link of the project: [Reddit](https://github.com/Amin-Gh-05/Reddit)
 
@@ -77,7 +77,7 @@ Link of the project: [Tetris](https://github.com/osumy/Tetris)
 When I'm not working, you might find me:
 
 - Playing games, Watching movies and series, Reading novels, Playing or persuing sports
-- Hanging out with old, new or future friends (next one might be you!)
+- Hanging out with old, new or future friends
 
 ## 📫 How to Connect
 
@@ -90,6 +90,6 @@ When I'm not working, you might find me:
 ## My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Gh-05&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=AminGh05&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminGh05&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
 </div>
