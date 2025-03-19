@@ -23,21 +23,21 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 ## My Tools
 
 <div align="center">
-    <img src="icons/git.svg" alt="git" height=50 width=50">
+    <img src="icons/git.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/python.svg" alt="git" height=50 width=50">
+    <img src="icons/python.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/c++.svg" alt="git" height=50 width=50">
+    <img src="icons/c++.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/java.svg" alt="git" height=50 width=50">
+    <img src="icons/java.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/csharp.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/csharp.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/js.svg" alt="git" height=50 width=50 style="margin-bottom: 15px">
+    <img src="icons/js.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/postgres.svg" alt="git" height=50 width=50">
+    <img src="icons/postgres.svg" alt="git" height=50 width=50>
     <img width=25>
-    <img src="icons/mss.svg" alt="git" height=50 width=50">
+    <img src="icons/mss.svg" alt="git" height=50 width=50>
 </div>
 
 <br>
